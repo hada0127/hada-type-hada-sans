@@ -620,11 +620,11 @@
           "sha256": "47f9cb39e259d49b3eb0c85f98dd0fe3d36f0809e234c32902b5410cecff76dd"
         },
         {
-          "bytes": 15664,
+          "bytes": 15584,
           "codepoints": "U+20-7E, U+A0-FF",
           "file": "HadaSans-Black.88.woff2",
           "n": 88,
-          "sha256": "ae1fb58630a485ae6e7f6c5eb5ebf65471536b3dde63ab5f37e644504a5b965d"
+          "sha256": "704a58f45826b17db7c8b753a163b07407fdaecc7e4690f291c60587769eb939"
         },
         {
           "bytes": 20468,
@@ -683,11 +683,11 @@
           "sha256": "af54ae4e44b95867a61e3da6f633d1ea9ec84245581d399b500d9d33df44223c"
         },
         {
-          "bytes": 11644,
+          "bytes": 10584,
           "codepoints": "U+21BA-21BB, U+21D0, U+21D2, U+21D4, U+21DE-21DF, U+21E4-21E5, U+21E7, U+21EA, U+2202, U+2205-2206, U+220F, U+2211-2212, U+221A, U+221E, U+222B, U+2248, U+2260, U+2264-2265, U+226A-226B, U+22EF, U+2303, U+2305, U+2318, U+2325-2327, U+2329-232B, U+2380, U+2387, U+238B, U+23CE-23CF, U+2423, U+2460-2473, U+24B6-24CF, U+24EA-24F4, U+24FF, U+25A0-25A2, U+25AA, U+25B2-25B3, U+25B6-25B7, U+25BA-25BD, U+25C0-25C1, U+25C4-25C7, U+25CA-25CB, U+25CF, U+25E6, U+25EF, U+2600, U+2605-2606, U+263C, U+2661, U+2665, U+266A, U+26A0, U+2713, U+2717, U+2756, U+2776-2789, U+27EF, U+27F5-27FA, U+2985-2986, U+2B06, U+2B12-2B13, U+2B1C",
           "file": "HadaSans-Black.97.woff2",
           "n": 97,
-          "sha256": "5a2678a1cdacaf2d302ce84c715c86fa34517c00ad5cce1348c18f034be0437e"
+          "sha256": "24af0bd542c2673803fe774bc448a2bdabd62ec7ecea0043f1d8e72bdb850a53"
         },
         {
           "bytes": 24324,
@@ -697,11 +697,11 @@
           "sha256": "f0025c2b8464de0c05888fe3dde0b8edb0ff03f1cab919d1bd2d90f52cfed4ef"
         },
         {
-          "bytes": 8748,
+          "bytes": 8688,
           "codepoints": "U+315B-3164, U+318D, U+321C, U+3380-3384, U+3388-33CA, U+33CF-33D0, U+33D3, U+33D6, U+33D8, U+33DB-33DD",
           "file": "HadaSans-Black.99.woff2",
           "n": 99,
-          "sha256": "58f6b59c700c97f46a7fa99537a0155744676b58d0654117bd93f331f653308d"
+          "sha256": "50ff5ae7550b140c550b9b5f9a15e27be3466131a992f501eb325cb707ba9f04"
         },
         {
           "bytes": 14372,
@@ -725,15 +725,15 @@
           "sha256": "c9db93e2e72ab539efd6bd7359af914b7fddac182555f8cbfa30e7492be6e288"
         },
         {
-          "bytes": 5756,
+          "bytes": 5900,
           "codepoints": "U+1F10B, U+1F12F-1F149, U+1F150-1F16B, U+1F170-1F189, U+1F850, U+1F852, U+F0000-F0002",
           "file": "HadaSans-Black.103.woff2",
           "n": 103,
-          "sha256": "79c8edc61a67029810a2f9fdf50c3414609a6105883f69f160afaac6482081f0"
+          "sha256": "3a6bf8fa85e4476d64b4c2656c7e5f9b8ce2816e519787b5c5620ee4d0a270b8"
         }
       ],
       "source": "fonts/hada-sans/woff2/HadaSans-Black.woff2",
-      "source_sha256": "98920b8ec943d514db37518ff1d0d48ac6981b4a484feb57291f9bd3edb73a79",
+      "source_sha256": "d332a61acbd3778cbbef8e278ed1c8a4fd11fad2fcbdc25bc3f8222070fea02f",
       "style": "normal",
       "weight": 900
     },
@@ -1357,11 +1357,11 @@
           "sha256": "6cf16a428ff083b6bbe95b2d0c4a3ad303999e6b785c5eb6b5f5bd68e7828235"
         },
         {
-          "bytes": 16212,
+          "bytes": 16116,
           "codepoints": "U+20-7E, U+A0-FF",
           "file": "HadaSans-Bold.88.woff2",
           "n": 88,
-          "sha256": "6d42e3ca7fae0e3e11a43b26ec8200cfd9a5050969f2996df61609d2794d48c4"
+          "sha256": "6b90431bcf6b4ecb97ee3cdc5080a7ae36080a9651219c3a45392d98cb9ef8c6"
         },
         {
           "bytes": 20544,
@@ -1420,11 +1420,11 @@
           "sha256": "faca2e50b36738ae64a184b78fe231e33540925aab37b5c637b9b8305721d883"
         },
         {
-          "bytes": 12372,
+          "bytes": 10588,
           "codepoints": "U+21BA-21BB, U+21D0, U+21D2, U+21D4, U+21DE-21DF, U+21E4-21E5, U+21E7, U+21EA, U+2202, U+2205-2206, U+220F, U+2211-2212, U+221A, U+221E, U+222B, U+2248, U+2260, U+2264-2265, U+226A-226B, U+22EF, U+2303, U+2305, U+2318, U+2325-2327, U+2329-232B, U+2380, U+2387, U+238B, U+23CE-23CF, U+2423, U+2460-2473, U+24B6-24CF, U+24EA-24F4, U+24FF, U+25A0-25A2, U+25AA, U+25B2-25B3, U+25B6-25B7, U+25BA-25BD, U+25C0-25C1, U+25C4-25C7, U+25CA-25CB, U+25CF, U+25E6, U+25EF, U+2600, U+2605-2606, U+263C, U+2661, U+2665, U+266A, U+26A0, U+2713, U+2717, U+2756, U+2776-2789, U+27EF, U+27F5-27FA, U+2985-2986, U+2B06, U+2B12-2B13, U+2B1C",
           "file": "HadaSans-Bold.97.woff2",
           "n": 97,
-          "sha256": "ec5804995a466fbcbca1c653efc11bab5bfbd27402e656ca585bbad6d1f7faab"
+          "sha256": "6d263c10739788be31128b7e2f7f9897140855d5a500dc06d6955fda1ed10266"
         },
         {
           "bytes": 25364,
@@ -1434,11 +1434,11 @@
           "sha256": "4ac46d2c514d68c6d0875c168c49a0f353ff9c33bd75ff042e600d6a2c2a70f0"
         },
         {
-          "bytes": 9788,
+          "bytes": 9692,
           "codepoints": "U+315B-3164, U+318D, U+321C, U+3380-3384, U+3388-33CA, U+33CF-33D0, U+33D3, U+33D6, U+33D8, U+33DB-33DD",
           "file": "HadaSans-Bold.99.woff2",
           "n": 99,
-          "sha256": "bf5b84f1666ca2c5bf42e25d612797560ff9993f8d94367e03c72e5cda308726"
+          "sha256": "7f050c946a4b7bce719aa3be1be8c19f8f3a160df9985920032f3c4b0b6314b6"
         },
         {
           "bytes": 14664,
@@ -1462,15 +1462,15 @@
           "sha256": "998b0d13b37a947ee243a165a2e32e10ba68ca86d13e62668d44206b56d4e3c6"
         },
         {
-          "bytes": 5816,
+          "bytes": 5980,
           "codepoints": "U+1F10B, U+1F12F-1F149, U+1F150-1F16B, U+1F170-1F189, U+1F850, U+1F852, U+F0000-F0002",
           "file": "HadaSans-Bold.103.woff2",
           "n": 103,
-          "sha256": "69f51e5f3e2b1ff17bbc1cdd5cd5745debc670182a8b0aaf81d3d3569f1f91d9"
+          "sha256": "33cd0cd7ba024fa044da359eb598b9c65d273e59512002bc84b7e2208db0de7a"
         }
       ],
       "source": "fonts/hada-sans/woff2/HadaSans-Bold.woff2",
-      "source_sha256": "9049a1d35d7ae0d18f23260eec5a5bdd3cfc19e005e76ddf53aaca85c1df3511",
+      "source_sha256": "13de2e4d5cd985fe4dc124c99c18ba2832c140a4a36ae2b4f5f119462b9c87ec",
       "style": "normal",
       "weight": 700
     },
@@ -2094,11 +2094,11 @@
           "sha256": "9b2f00deed856e4184c3fe3e343ed929092ac42e4e8348db92a658ab6df2c64b"
         },
         {
-          "bytes": 16108,
+          "bytes": 16044,
           "codepoints": "U+20-7E, U+A0-FF",
           "file": "HadaSans-ExtraBold.88.woff2",
           "n": 88,
-          "sha256": "aed958ca32eead4a3f457506e959affae88872a18a2ad174ee52856dfa0971fa"
+          "sha256": "26bfa01ec248e30756fc20c1a984723f3c59e3d270887e65837057c6a9924e1d"
         },
         {
           "bytes": 20488,
@@ -2157,11 +2157,11 @@
           "sha256": "db775f677f7b7e6c851826e74f68d41a408de59107289a5eaf8b895b5e36fb44"
         },
         {
-          "bytes": 11488,
+          "bytes": 10488,
           "codepoints": "U+21BA-21BB, U+21D0, U+21D2, U+21D4, U+21DE-21DF, U+21E4-21E5, U+21E7, U+21EA, U+2202, U+2205-2206, U+220F, U+2211-2212, U+221A, U+221E, U+222B, U+2248, U+2260, U+2264-2265, U+226A-226B, U+22EF, U+2303, U+2305, U+2318, U+2325-2327, U+2329-232B, U+2380, U+2387, U+238B, U+23CE-23CF, U+2423, U+2460-2473, U+24B6-24CF, U+24EA-24F4, U+24FF, U+25A0-25A2, U+25AA, U+25B2-25B3, U+25B6-25B7, U+25BA-25BD, U+25C0-25C1, U+25C4-25C7, U+25CA-25CB, U+25CF, U+25E6, U+25EF, U+2600, U+2605-2606, U+263C, U+2661, U+2665, U+266A, U+26A0, U+2713, U+2717, U+2756, U+2776-2789, U+27EF, U+27F5-27FA, U+2985-2986, U+2B06, U+2B12-2B13, U+2B1C",
           "file": "HadaSans-ExtraBold.97.woff2",
           "n": 97,
-          "sha256": "827e5576649e917f33993f1c6ac1a0d7ec940d92fa4a6038b2ccb5fc8071864d"
+          "sha256": "6c958992ca52d826a0756e0e5b121c4ebb7d0a22572ff0ea76e74db1837dc856"
         },
         {
           "bytes": 25064,
@@ -2171,11 +2171,11 @@
           "sha256": "12f4a9fd31112fa00157c0c57e71a315ddda03f55838e2b39ebc38f765b6b784"
         },
         {
-          "bytes": 9376,
+          "bytes": 9292,
           "codepoints": "U+315B-3164, U+318D, U+321C, U+3380-3384, U+3388-33CA, U+33CF-33D0, U+33D3, U+33D6, U+33D8, U+33DB-33DD",
           "file": "HadaSans-ExtraBold.99.woff2",
           "n": 99,
-          "sha256": "9ed19ce11ed3a9954db3c49994742f630cdbc2d7f4ad351c08170c51b0d9d8ff"
+          "sha256": "f07b782f07ee27cd67a809c4edbf06e96f35d96388789e46dca398a815782227"
         },
         {
           "bytes": 14604,
@@ -2199,15 +2199,15 @@
           "sha256": "76ed58979b8282d8c83a4bf2cfdf0c75a40ce8a7d4a6ae114f3e1ffaacc9e833"
         },
         {
-          "bytes": 5800,
+          "bytes": 5972,
           "codepoints": "U+1F10B, U+1F12F-1F149, U+1F150-1F16B, U+1F170-1F189, U+1F850, U+1F852, U+F0000-F0002",
           "file": "HadaSans-ExtraBold.103.woff2",
           "n": 103,
-          "sha256": "43c4a197dacf248ab078da411d86c7851b35e8852186b22f8e54e0004287b162"
+          "sha256": "070e517f5821a15641dfa86b873624832b709625e9784d99bb8977509a5017e3"
         }
       ],
       "source": "fonts/hada-sans/woff2/HadaSans-ExtraBold.woff2",
-      "source_sha256": "f9e531738f193e6d17c9b2596fd11869fcad5ef53660f10cc49c3f9288782495",
+      "source_sha256": "b1dbf1598ec39ca37fd909c5228aa3b91ddd448c0cc6c091886337c3237473d6",
       "style": "normal",
       "weight": 800
     },
@@ -2831,11 +2831,11 @@
           "sha256": "e10bff7178f51accc80dcae98b4e98e7938bae9eb634c2cdabec26aa740c9fde"
         },
         {
-          "bytes": 16060,
+          "bytes": 15836,
           "codepoints": "U+20-7E, U+A0-FF",
           "file": "HadaSans-ExtraLight.88.woff2",
           "n": 88,
-          "sha256": "583d7bae847599786c251a4c95d2e7bd05cc07b1a00a283f57061e09133af911"
+          "sha256": "883dcbf39a37c8a4c72ef1c1b9148066f833d719f633e26b00afffb5eb710ceb"
         },
         {
           "bytes": 19768,
@@ -2894,11 +2894,11 @@
           "sha256": "3004ea3c5ca2fc1e7e12bfc8f4388497381da2b54558dda7daac79a8183e3f25"
         },
         {
-          "bytes": 12212,
+          "bytes": 10512,
           "codepoints": "U+21BA-21BB, U+21D0, U+21D2, U+21D4, U+21DE-21DF, U+21E4-21E5, U+21E7, U+21EA, U+2202, U+2205-2206, U+220F, U+2211-2212, U+221A, U+221E, U+222B, U+2248, U+2260, U+2264-2265, U+226A-226B, U+22EF, U+2303, U+2305, U+2318, U+2325-2327, U+2329-232B, U+2380, U+2387, U+238B, U+23CE-23CF, U+2423, U+2460-2473, U+24B6-24CF, U+24EA-24F4, U+24FF, U+25A0-25A2, U+25AA, U+25B2-25B3, U+25B6-25B7, U+25BA-25BD, U+25C0-25C1, U+25C4-25C7, U+25CA-25CB, U+25CF, U+25E6, U+25EF, U+2600, U+2605-2606, U+263C, U+2661, U+2665, U+266A, U+26A0, U+2713, U+2717, U+2756, U+2776-2789, U+27EF, U+27F5-27FA, U+2985-2986, U+2B06, U+2B12-2B13, U+2B1C",
           "file": "HadaSans-ExtraLight.97.woff2",
           "n": 97,
-          "sha256": "701b4ae86062d5cef1288f9937b37132a08e15084c91ffdda7339635ff5d82e0"
+          "sha256": "3277865b101dd0a7759ce120b2ac1edc73712c3f9c73beab6b2ac87ad58ceef0"
         },
         {
           "bytes": 25920,
@@ -2908,11 +2908,11 @@
           "sha256": "382f857f3cba129fc037b9b1c776de50a48ea08a7ef70d09170426bb947ad174"
         },
         {
-          "bytes": 10496,
+          "bytes": 10404,
           "codepoints": "U+315B-3164, U+318D, U+321C, U+3380-3384, U+3388-33CA, U+33CF-33D0, U+33D3, U+33D6, U+33D8, U+33DB-33DD",
           "file": "HadaSans-ExtraLight.99.woff2",
           "n": 99,
-          "sha256": "93efd7cb954a56d553d519644badf62e6bc3cb32b1ade630ce949667693b5082"
+          "sha256": "613ebe00e36811aefcbcce1ebff5876383fac953b3e3c83ec5958109bbff5c80"
         },
         {
           "bytes": 13772,
@@ -2936,15 +2936,15 @@
           "sha256": "1f196c76fc4a441bf8785c5b1ecbaeb90638d9e6dbcdc51e4098bb77d5a92430"
         },
         {
-          "bytes": 5864,
+          "bytes": 6032,
           "codepoints": "U+1F10B, U+1F12F-1F149, U+1F150-1F16B, U+1F170-1F189, U+1F850, U+1F852, U+F0000-F0002",
           "file": "HadaSans-ExtraLight.103.woff2",
           "n": 103,
-          "sha256": "ba2a960f258db9a9a36649ce3edf3bb7e5ddbf0a2df9a511a655ac3d12e30e69"
+          "sha256": "695a1b9acda28b1d5d41060665a8e648af34cda9ed9d9b93617133014f80751d"
         }
       ],
       "source": "fonts/hada-sans/woff2/HadaSans-ExtraLight.woff2",
-      "source_sha256": "a55503624ef146fb0ed1d7829d5decc826802599a08a776b28400be1802bb2fe",
+      "source_sha256": "755ebafa79edc0442a68ee9fd89a6936bf5ab97865167ae5ed3318701f148f02",
       "style": "normal",
       "weight": 200
     },
@@ -3568,11 +3568,11 @@
           "sha256": "7ae290182857ea98eacacbfb28e25f4c88e1be825dd63f33deebb861f5970c39"
         },
         {
-          "bytes": 16052,
+          "bytes": 15784,
           "codepoints": "U+20-7E, U+A0-FF",
           "file": "HadaSans-Light.88.woff2",
           "n": 88,
-          "sha256": "b206eb2c6b44d5545b2d21d4d9555952433750b91fd1a154210b17826de2bb4d"
+          "sha256": "959dc8a3f10f76d08be1d4c676d6d59ce3ef1c60fb2dfbd91c6fc8d98803a2ed"
         },
         {
           "bytes": 20200,
@@ -3631,11 +3631,11 @@
           "sha256": "03c958573416df83904d13140a7c9ec6037a087c683939c4c5d5c3b1a7f6a214"
         },
         {
-          "bytes": 12152,
+          "bytes": 10512,
           "codepoints": "U+21BA-21BB, U+21D0, U+21D2, U+21D4, U+21DE-21DF, U+21E4-21E5, U+21E7, U+21EA, U+2202, U+2205-2206, U+220F, U+2211-2212, U+221A, U+221E, U+222B, U+2248, U+2260, U+2264-2265, U+226A-226B, U+22EF, U+2303, U+2305, U+2318, U+2325-2327, U+2329-232B, U+2380, U+2387, U+238B, U+23CE-23CF, U+2423, U+2460-2473, U+24B6-24CF, U+24EA-24F4, U+24FF, U+25A0-25A2, U+25AA, U+25B2-25B3, U+25B6-25B7, U+25BA-25BD, U+25C0-25C1, U+25C4-25C7, U+25CA-25CB, U+25CF, U+25E6, U+25EF, U+2600, U+2605-2606, U+263C, U+2661, U+2665, U+266A, U+26A0, U+2713, U+2717, U+2756, U+2776-2789, U+27EF, U+27F5-27FA, U+2985-2986, U+2B06, U+2B12-2B13, U+2B1C",
           "file": "HadaSans-Light.97.woff2",
           "n": 97,
-          "sha256": "47419e1910e0f911635a46d74afafdbb101ccd1c3f53bd790a8d52f9064eb5c8"
+          "sha256": "b70360861c6071abc3f137e438ecbb129d41dfbc96e82cfde3d072d30e3d5b76"
         },
         {
           "bytes": 25940,
@@ -3645,11 +3645,11 @@
           "sha256": "76559f4603ff086447bcee2ae64ecef53819dcaacc0b0e2269ce90c34deba2b3"
         },
         {
-          "bytes": 10560,
+          "bytes": 10580,
           "codepoints": "U+315B-3164, U+318D, U+321C, U+3380-3384, U+3388-33CA, U+33CF-33D0, U+33D3, U+33D6, U+33D8, U+33DB-33DD",
           "file": "HadaSans-Light.99.woff2",
           "n": 99,
-          "sha256": "4eadfb4320da33b4e95d68d06c8b1b4be788da7223c1e7d1ba4784324f428aea"
+          "sha256": "5d08d6d28c88c23eab8ab83c9fcfd73e81cbc71eea06a48241dd10964e70fbdc"
         },
         {
           "bytes": 14224,
@@ -3673,15 +3673,15 @@
           "sha256": "e024ac559181026692e9d8e4fa8140b8ab6aec6d5c00891741f5687852634e8a"
         },
         {
-          "bytes": 5496,
+          "bytes": 5680,
           "codepoints": "U+1F10B, U+1F12F-1F149, U+1F150-1F16B, U+1F170-1F189, U+1F850, U+1F852, U+F0000-F0002",
           "file": "HadaSans-Light.103.woff2",
           "n": 103,
-          "sha256": "e2b6ff62c3e6f99769f85d48d2c0405dc8053ab1a584a29ed61edc17019442be"
+          "sha256": "9ef7966b597b11e33ae41c4c05be92b6fb8afc37b9e11e1c96dda2e662b27d2f"
         }
       ],
       "source": "fonts/hada-sans/woff2/HadaSans-Light.woff2",
-      "source_sha256": "2b44ac4821933f398eed1f816f37c7f17e81fe80e3fded4c709407c5a18df32a",
+      "source_sha256": "a05e41a5f826f1728b7a6befc5e82f787cd99eae00b7efd0845462a27062df08",
       "style": "normal",
       "weight": 300
     },
@@ -4305,11 +4305,11 @@
           "sha256": "15caaac1f63697025c1f5086471083269bc52cc3e2b9f23fa7fd169bc5292359"
         },
         {
-          "bytes": 16184,
+          "bytes": 16056,
           "codepoints": "U+20-7E, U+A0-FF",
           "file": "HadaSans-Medium.88.woff2",
           "n": 88,
-          "sha256": "a04c49963c3a887e9fa218f602d7fdf9ae7b7730ad3d3d5e7c2190064e95d543"
+          "sha256": "120b8ae5ad98551343294b21aa2ba3a438bf8ef3110fdf30d8a42918b4de0c5c"
         },
         {
           "bytes": 20288,
@@ -4368,11 +4368,11 @@
           "sha256": "822f212562106e8a8bdaa8f082877e06c2fffd2307cc7f9309bfc59d21598578"
         },
         {
-          "bytes": 12068,
+          "bytes": 10608,
           "codepoints": "U+21BA-21BB, U+21D0, U+21D2, U+21D4, U+21DE-21DF, U+21E4-21E5, U+21E7, U+21EA, U+2202, U+2205-2206, U+220F, U+2211-2212, U+221A, U+221E, U+222B, U+2248, U+2260, U+2264-2265, U+226A-226B, U+22EF, U+2303, U+2305, U+2318, U+2325-2327, U+2329-232B, U+2380, U+2387, U+238B, U+23CE-23CF, U+2423, U+2460-2473, U+24B6-24CF, U+24EA-24F4, U+24FF, U+25A0-25A2, U+25AA, U+25B2-25B3, U+25B6-25B7, U+25BA-25BD, U+25C0-25C1, U+25C4-25C7, U+25CA-25CB, U+25CF, U+25E6, U+25EF, U+2600, U+2605-2606, U+263C, U+2661, U+2665, U+266A, U+26A0, U+2713, U+2717, U+2756, U+2776-2789, U+27EF, U+27F5-27FA, U+2985-2986, U+2B06, U+2B12-2B13, U+2B1C",
           "file": "HadaSans-Medium.97.woff2",
           "n": 97,
-          "sha256": "64ac7cc027fad0e6ed93aa752165daa80e6a94336eff04d4f3f2af9b2d113eca"
+          "sha256": "18379352b6b6977bb7ccd6c288acde1f9ec67881fd7162d94c970f47ee37fcd5"
         },
         {
           "bytes": 26032,
@@ -4382,11 +4382,11 @@
           "sha256": "f00d9759699a59288051043ed41ecaffd730c934272f6e3bafde30833ebe5367"
         },
         {
-          "bytes": 10268,
+          "bytes": 10180,
           "codepoints": "U+315B-3164, U+318D, U+321C, U+3380-3384, U+3388-33CA, U+33CF-33D0, U+33D3, U+33D6, U+33D8, U+33DB-33DD",
           "file": "HadaSans-Medium.99.woff2",
           "n": 99,
-          "sha256": "ca6662263a9e1e7a341b74f6e9192210122f0729bd1d3084a4838a8682b9e8e7"
+          "sha256": "1cffdd1b9284c63fb9bfe33ef1f1dd39c9a7d7f251612022de1d4d2b1f3ea270"
         },
         {
           "bytes": 14432,
@@ -4410,15 +4410,15 @@
           "sha256": "1087bdb6b0edcf7ec3ca6a505d286aa9b4b276190a81c36a730937bb50c22046"
         },
         {
-          "bytes": 5576,
+          "bytes": 5748,
           "codepoints": "U+1F10B, U+1F12F-1F149, U+1F150-1F16B, U+1F170-1F189, U+1F850, U+1F852, U+F0000-F0002",
           "file": "HadaSans-Medium.103.woff2",
           "n": 103,
-          "sha256": "e88ca4b8e278ff99abd6484b339dbc8b70b5b9ce107b20fc804e40e03106f04c"
+          "sha256": "76c092b45c2d3adf974af0702996ac41d6136cede28175112872f7989ba3abf0"
         }
       ],
       "source": "fonts/hada-sans/woff2/HadaSans-Medium.woff2",
-      "source_sha256": "a61a7bef29ebe3b4da0444b9d48c9188bd6a3bbda821fa532ffb0793b8bfb61b",
+      "source_sha256": "8f7bf8f7d461e6c4e606b3e65fdb7da3baa732d6d2ac48d58aad5b4b00b32920",
       "style": "normal",
       "weight": 500
     },
@@ -5042,11 +5042,11 @@
           "sha256": "b32c1fe2ff20c71c64d2a5d52fec5c371cb916d4440b8c55bad65b8ca57b9278"
         },
         {
-          "bytes": 16320,
+          "bytes": 16228,
           "codepoints": "U+20-7E, U+A0-FF",
           "file": "HadaSans-Regular.88.woff2",
           "n": 88,
-          "sha256": "95fef3e9a434d65c0bf093575cef83b2cba69881574fb03b2d8bc3bb96e71f44"
+          "sha256": "58057d3c955d371360fe3f015ee930747b3ecf6b55c87f07b8c21daeddd376f1"
         },
         {
           "bytes": 20560,
@@ -5105,11 +5105,11 @@
           "sha256": "9ef646f3b05d2b4467769e35961a3bb63bad6245811423b0a2d0c33189bfa85a"
         },
         {
-          "bytes": 12356,
+          "bytes": 10556,
           "codepoints": "U+21BA-21BB, U+21D0, U+21D2, U+21D4, U+21DE-21DF, U+21E4-21E5, U+21E7, U+21EA, U+2202, U+2205-2206, U+220F, U+2211-2212, U+221A, U+221E, U+222B, U+2248, U+2260, U+2264-2265, U+226A-226B, U+22EF, U+2303, U+2305, U+2318, U+2325-2327, U+2329-232B, U+2380, U+2387, U+238B, U+23CE-23CF, U+2423, U+2460-2473, U+24B6-24CF, U+24EA-24F4, U+24FF, U+25A0-25A2, U+25AA, U+25B2-25B3, U+25B6-25B7, U+25BA-25BD, U+25C0-25C1, U+25C4-25C7, U+25CA-25CB, U+25CF, U+25E6, U+25EF, U+2600, U+2605-2606, U+263C, U+2661, U+2665, U+266A, U+26A0, U+2713, U+2717, U+2756, U+2776-2789, U+27EF, U+27F5-27FA, U+2985-2986, U+2B06, U+2B12-2B13, U+2B1C",
           "file": "HadaSans-Regular.97.woff2",
           "n": 97,
-          "sha256": "462970aad7c589e5b33784d1bf2fa540a76f7faad780e270000880344a4e3805"
+          "sha256": "3b7009d8e67f15510e812cbaa6582b8a0cd4510e9f6534abf961ef309e0ecc00"
         },
         {
           "bytes": 25964,
@@ -5119,11 +5119,11 @@
           "sha256": "745a653e212e2f326316a4bb811ecc05d6ad4cbf2291312dd347bdd46c634129"
         },
         {
-          "bytes": 10156,
+          "bytes": 10060,
           "codepoints": "U+315B-3164, U+318D, U+321C, U+3380-3384, U+3388-33CA, U+33CF-33D0, U+33D3, U+33D6, U+33D8, U+33DB-33DD",
           "file": "HadaSans-Regular.99.woff2",
           "n": 99,
-          "sha256": "0beb194abfbd543be08d9ea67f89573ed8ecbe0445abf6ea0a629b3006f3d0a1"
+          "sha256": "7611c68088c5ee0b70c0054333f5cb75da2f6e0068e41d32f0c625e9e8c66b91"
         },
         {
           "bytes": 14172,
@@ -5147,15 +5147,15 @@
           "sha256": "3e0d64ed04628f2ab3c7bc3f0189d53814d42b9dcd2a4d002ad7bda18c381154"
         },
         {
-          "bytes": 5436,
+          "bytes": 5584,
           "codepoints": "U+1F10B, U+1F12F-1F149, U+1F150-1F16B, U+1F170-1F189, U+1F850, U+1F852, U+F0000-F0002",
           "file": "HadaSans-Regular.103.woff2",
           "n": 103,
-          "sha256": "1c00606b2a5dac5e8fb458f747efc2426825b5c276e0cffe649b37b679e93fe5"
+          "sha256": "94494f660e30e8db5b2271d2c81f9f3a20d7abed5095f5eccd666618f258b423"
         }
       ],
       "source": "fonts/hada-sans/woff2/HadaSans-Regular.woff2",
-      "source_sha256": "7f3e4014451500c6a09a93a05625ca82fd576f62f3c635a1b9caff20d470ce76",
+      "source_sha256": "70f2a819e24dc2be7e5d9bbc2e40178bca96ec19c880fa25061ee5926d2b8a02",
       "style": "normal",
       "weight": 400
     },
@@ -5779,11 +5779,11 @@
           "sha256": "d0cf487c19230a8ec2217bb6fb8e700e187b87fceab0f6c67a830890ab46a2c7"
         },
         {
-          "bytes": 16116,
+          "bytes": 16048,
           "codepoints": "U+20-7E, U+A0-FF",
           "file": "HadaSans-SemiBold.88.woff2",
           "n": 88,
-          "sha256": "1b1c25024590301072ea812f0b09b37bef6cfa36be385785f320ca1f99969420"
+          "sha256": "13250c3b2df00dab579293b229d9f6a7a186fef2997e4590e0f1ff830a520103"
         },
         {
           "bytes": 20716,
@@ -5842,11 +5842,11 @@
           "sha256": "d9b2eb56f7d65ad351adc4b8c8a28318506ca1574ae5b974dace6781effb1486"
         },
         {
-          "bytes": 11796,
+          "bytes": 10512,
           "codepoints": "U+21BA-21BB, U+21D0, U+21D2, U+21D4, U+21DE-21DF, U+21E4-21E5, U+21E7, U+21EA, U+2202, U+2205-2206, U+220F, U+2211-2212, U+221A, U+221E, U+222B, U+2248, U+2260, U+2264-2265, U+226A-226B, U+22EF, U+2303, U+2305, U+2318, U+2325-2327, U+2329-232B, U+2380, U+2387, U+238B, U+23CE-23CF, U+2423, U+2460-2473, U+24B6-24CF, U+24EA-24F4, U+24FF, U+25A0-25A2, U+25AA, U+25B2-25B3, U+25B6-25B7, U+25BA-25BD, U+25C0-25C1, U+25C4-25C7, U+25CA-25CB, U+25CF, U+25E6, U+25EF, U+2600, U+2605-2606, U+263C, U+2661, U+2665, U+266A, U+26A0, U+2713, U+2717, U+2756, U+2776-2789, U+27EF, U+27F5-27FA, U+2985-2986, U+2B06, U+2B12-2B13, U+2B1C",
           "file": "HadaSans-SemiBold.97.woff2",
           "n": 97,
-          "sha256": "932777e3374698bd337eaaa0c8937451231d503ef420887b02b3467603fa6179"
+          "sha256": "707c799d2967e7c6d8749c116284335153d585921042b8e3b395d518930d83fb"
         },
         {
           "bytes": 25720,
@@ -5856,11 +5856,11 @@
           "sha256": "0d4ce3a7d78d56ba17f23559d2120afa0199aa19cea4b5036331ea934930bbfd"
         },
         {
-          "bytes": 10252,
+          "bytes": 10200,
           "codepoints": "U+315B-3164, U+318D, U+321C, U+3380-3384, U+3388-33CA, U+33CF-33D0, U+33D3, U+33D6, U+33D8, U+33DB-33DD",
           "file": "HadaSans-SemiBold.99.woff2",
           "n": 99,
-          "sha256": "799c7c01908ab5d5b956128bf5367af27ccef92ff740f848b8a0a1e016489733"
+          "sha256": "b1fd5f84b8b9ca8b0acad66cd797c684bae1726e7ae210c99548209007aea649"
         },
         {
           "bytes": 14540,
@@ -5884,15 +5884,15 @@
           "sha256": "ce6dff4960cec4b3ba9bc121223ab301623044363d4a61429f996e9a79214465"
         },
         {
-          "bytes": 5532,
+          "bytes": 5676,
           "codepoints": "U+1F10B, U+1F12F-1F149, U+1F150-1F16B, U+1F170-1F189, U+1F850, U+1F852, U+F0000-F0002",
           "file": "HadaSans-SemiBold.103.woff2",
           "n": 103,
-          "sha256": "a79249e9ab0ae69425ddbcb3d3f2efea30f22df42cf8c7f53c8429b41e6e574d"
+          "sha256": "18692b8df339c490a0a6d01ecf22aae88d27e06011fbbb1d7e28af332820829f"
         }
       ],
       "source": "fonts/hada-sans/woff2/HadaSans-SemiBold.woff2",
-      "source_sha256": "a7ce457afe8cfd0eac726e5dcc15099a6a196d0016af8cd9680a60adf1537b54",
+      "source_sha256": "ec99cdcd6b6214b87daec464fa6e877a28c282b855d716aac5325e259c3f9fd0",
       "style": "normal",
       "weight": 600
     },
@@ -6516,11 +6516,11 @@
           "sha256": "eee6b8cc736173cd40f40c8474646845836c42dee7fcf4d2d7aab3bf9a329b34"
         },
         {
-          "bytes": 16280,
+          "bytes": 16008,
           "codepoints": "U+20-7E, U+A0-FF",
           "file": "HadaSans-Thin.88.woff2",
           "n": 88,
-          "sha256": "d51c0baf6d878ab852f5fd32ebc0a83c1c5a6a873d17c0a27fcd332de1daabcf"
+          "sha256": "af5b2bf3bb27cd433c555e4cbe33145e54c5dd972e16bd5c01d11acf708769c4"
         },
         {
           "bytes": 20016,
@@ -6579,11 +6579,11 @@
           "sha256": "89366419b73dbd6b9a57b84b11aae8d2c5fecba96a2902cc5b7f4163f4f08d8d"
         },
         {
-          "bytes": 12536,
+          "bytes": 10472,
           "codepoints": "U+21BA-21BB, U+21D0, U+21D2, U+21D4, U+21DE-21DF, U+21E4-21E5, U+21E7, U+21EA, U+2202, U+2205-2206, U+220F, U+2211-2212, U+221A, U+221E, U+222B, U+2248, U+2260, U+2264-2265, U+226A-226B, U+22EF, U+2303, U+2305, U+2318, U+2325-2327, U+2329-232B, U+2380, U+2387, U+238B, U+23CE-23CF, U+2423, U+2460-2473, U+24B6-24CF, U+24EA-24F4, U+24FF, U+25A0-25A2, U+25AA, U+25B2-25B3, U+25B6-25B7, U+25BA-25BD, U+25C0-25C1, U+25C4-25C7, U+25CA-25CB, U+25CF, U+25E6, U+25EF, U+2600, U+2605-2606, U+263C, U+2661, U+2665, U+266A, U+26A0, U+2713, U+2717, U+2756, U+2776-2789, U+27EF, U+27F5-27FA, U+2985-2986, U+2B06, U+2B12-2B13, U+2B1C",
           "file": "HadaSans-Thin.97.woff2",
           "n": 97,
-          "sha256": "7d76befc6daffd5446ec26f3a208dbbdbf62e0bf2b2ee425bf5c6e615d95e7f6"
+          "sha256": "15d36e3216c6562dd8fb53a03dafc3282a16e5b50c236edcc477a322e4d116c6"
         },
         {
           "bytes": 26116,
@@ -6593,11 +6593,11 @@
           "sha256": "d5bc810bf16916975c1ada3deb0a3f77899c63f87380e3b6d587778f2f37c9ce"
         },
         {
-          "bytes": 10188,
+          "bytes": 10120,
           "codepoints": "U+315B-3164, U+318D, U+321C, U+3380-3384, U+3388-33CA, U+33CF-33D0, U+33D3, U+33D6, U+33D8, U+33DB-33DD",
           "file": "HadaSans-Thin.99.woff2",
           "n": 99,
-          "sha256": "3b361c1f7b5a69077627634d4aa6eb4497d1f639e6836525ac853800deb5d06f"
+          "sha256": "9853847c83cd69933f70a788d09d01a6cd657c37a0541c8423dbc5d5a4654431"
         },
         {
           "bytes": 13980,
@@ -6621,15 +6621,15 @@
           "sha256": "881807b2be80b28a6dbd732f694f14c77253312f8b667681428c3cedc903f5a1"
         },
         {
-          "bytes": 5748,
+          "bytes": 5928,
           "codepoints": "U+1F10B, U+1F12F-1F149, U+1F150-1F16B, U+1F170-1F189, U+1F850, U+1F852, U+F0000-F0002",
           "file": "HadaSans-Thin.103.woff2",
           "n": 103,
-          "sha256": "9d789e28fface8868f8c84749e0a7cda0796b74b196973e46b0c8fc56a7b06d6"
+          "sha256": "c60d3dc400941c4ff92b175876d50b4c741f599796c2dbd71c282e6bd23e9412"
         }
       ],
       "source": "fonts/hada-sans/woff2/HadaSans-Thin.woff2",
-      "source_sha256": "77518455a1cfdc3b458d44938d4b163c6e8176f2906893578bc5e28ab014d7d2",
+      "source_sha256": "1bd8777dffe427378b6c60e0eb2c5bf5d6a7d0263cb7fdaf0e530ec2dfcc5527",
       "style": "normal",
       "weight": 100
     }
@@ -6637,9 +6637,9 @@
   "order_sha256": "72a13d677f617effa5e23b02358994a44f7dd84df82e1300e470fec8cbef67d5",
   "toolchain": {
     "brotli": "1.2.0",
-    "fonttools": "4.67.0",
+    "fonttools": "4.66.1",
     "ots": "9.2.0",
-    "python": "3.14.7",
+    "python": "3.12.15",
     "script": 1
   },
   "version": 1
